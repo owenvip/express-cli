@@ -1,0 +1,46 @@
+{
+  "extends": "eslint:recommended",
+  "env": {
+    "browser": false,
+    "es6": true,
+    "node": true,
+    "jquery": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    //"no-undef": 0,
+    "object-curly-spacing": [2, "always"],
+    "strict": 0,
+    //"quotes": [1, "single", "avoid-escape"],
+    "no-unused-vars": ["warn", {
+      "vars": "all",
+      "args": "after-used",
+      "ignoreRestSiblings": false
+    }],
+    "semi": [2, "always"],
+    //"space-before-function-paren": [2, "always"],
+    "keyword-spacing": [2, {
+      "before": true,
+      "after": true
+    }],
+    "space-infix-ops": 2,
+    //"spaced-comment": [2, "always"],
+    "arrow-spacing": 2,
+    "no-console": 0
+  },
+  "globals": {
+    "window": true,
+    "document": true,
+    "echarts": true,
+    "layui": true,
+    "$": true,
+    "jQuery": true,
+    "Mock": true,
+    "top": true,
+    "parent": true,
+    "resUrl": true,
+    "layer": true,
+    "d3": true,
+    "dataUtils": true
+  }
+}

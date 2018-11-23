@@ -1,0 +1,31 @@
+
+@font-face {font-family: "layui-icon";
+  src: url('layui-icon.eot?t=1534841861211'); /* IE9*/
+  src: url('layui-icon.eot?t=1534841861211#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAooAAsAAAAADowAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAARAAAAFY8i0iSY21hcAAAAYAAAACFAAAB9E5k67xnbHlmAAACCAAABfEAAAe0UGnpWGhlYWQAAAf8AAAALwAAADYSYy4GaGhlYQAACCwAAAAcAAAAJAfeA4lobXR4AAAISAAAAA4AAAAgIAAAAGxvY2EAAAhYAAAAEgAAABIIHgWCbWF4cAAACGwAAAAdAAAAIAEcAOluYW1lAAAIjAAAAUUAAAJtPlT+fXBvc3QAAAnUAAAAUQAAAGm61x/deJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYWCcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGByeiT5bwNzwv4EhhrmBoQEozAiSAwDqvgyYeJztkT0KhFAMhOf5C2KxjbfwNNZiIZ7AY1hZW3m6uYZOEkEW9gg74Xu8DEmKBEAJIBe9KIC0I8G0yU3u52jcLzAp/yhUz44DR85cefC8rl/Ol5J3vgHUmlPKrzQ5U0GFv1p/lyerbauB/4fA9z8Gdj/Ogd2La6Ctgkdgd+UZILsBoyQsNwAAAHicdVVrbBRVFL7n3nndmdnZ3enOY7ftbvc59rmwrynWdqmw0Ko8bA0qPgg+ahofCRoJVht8kGhsjA8iCQoYYiTEGKViqhDBaBONPzDB+EOjP/xhiEn94w//tatntoD80EnmvO49d8757jlnCCPk7y/ZF6xOSmSE3EQIyF4hI8VSkEVqD4F1hcfsUs2vlku1SqEXrnAfacYzQE6CMwL+ALAB8FBA1QC6sLAgR3Xp+KNc1/nc/oDu100dVqW5gD52XNKj584vi+Ly+VX6wW+C8NsHLUp3LyxIoYh8HJ124nsg8DhwWTkuR0I/XvU6v7z88RU3pAQIPuwIGyI9hOTtmjcAPsZVsuVawUuCLNl+jnq2JA+A3KJBEpLtwHRHVMunQpG1VCiJPVyfffKRUJsFyffGDJYYPCKru0epZiqNaGzi6YzcqSdu7elpjI5Ua09kRi/tDSXEr+Bgf2ai/dRecdfn2wo3pEf3bdz52qYgHBGxflYg7GESJRlyPeI9RkhbGrGK+lmnmrb8LMYR9bJRNJWrctqzylG0MD/tVBFnSbaSUE4H1zAAGcmCdDXtr25DZ5c9luqG+MH4Si6+NpBcaFTGXfq+u4jCG+7K765hhQBCGnW1gFvGys8w3FzUXTrjrlnZQfdCd6o55rozMy50d8FnbnNNZRPMoAEuVhqw/Gc8/qtqGOq/BCbXHlx03cVffgnyQ8z/PscW2Sjpw2SxDKqrsGI2JQQfkZayV8sjJslYZcwujQA7e3igJC6dml8ShKX5nRM619xQ45ZDXwvC14fe/EYoF7nK6Ak1HgP93cEXb1rdd2pJzEtunItdwjdvru5tzJbUuEqFedVMYDwqxvMc+4Ttx9oeJuPkNjJLXiAvkY/IAsGA8/9GGLMdvPwU2HVwAjYEtTrYJd+xnXKpHigOLo2AWMQswuD5tuNfU+iOV5DC1Kv5DmSC6rIwuas9UUYtmwmseFatGq1WfAOyTrZah3I1OwxlEY/3JLk38LVq5SRzrvpe6Sqv5pXRGHyS4YGSXa5TPLTgD0PFb7l6tnP5m+zDPcWq8Mf8/B9CtbhHZHJO4Rt0ULKSInBptv+evlmJC4qUVUDfwJWczFbuVgwa4dv5rvrky8cuCsLFYy36w3YeoYby0GR918pfIUsFKkuCocma3GaKG2UtYjEWM22TclNXbgRYv349xBiVTJk7Bwxbtdp0LWrqndfnFS50V7o6hj2By4Xhjt7ZZ4wOK5YYj9gmhwmI5604bWtvCwNVuVtvsymArjgxrudP+nNbMRPMZ+ucf1KJSgkR9IYqJgSqnFHVMwoVEqLa0EFMSNH7pUlVo4b0ylCng0kc/V4Qvj967OIOg2rqpHS4c+gV+ioFLeft3Jd38qao8eTNo/u4JPKwQk0bJlMaB7pkZvMdkfFvJYFbgE8XbbcTbiieNeQQj2U6EvkINxQ97fZvaO92Yt64ligUk/ebIaApUZQ3t2sqAI2E+zvNhCaoq31/iV1gCbIJJ+xd5EHyODYLdrSXDuYo3iFKBnRCa862pGsmqoe9/f8qpK00M4LSQbU2BCW7nATxsqFki+hQqfnlVpmyqbDavHBaMwytORXQ080Larh/HcCY748BDPZDvH/wv7V1K2dhqvnWFujZ0AvQ7kpSQhAFpwO2QO+NaGmRTA90OGW3HVVwpvUQTBn6JT2YNciMKWTT6sZicNyYX9yobnteQ20zpZtR057fds0a/HS6+VBXX19XvKAwphS2pPr6UpmeniFomZRCvKuPUMT1U3aKrSXZ1p+rMAK2hcNcyhUBe2EAgpZNQRLRLGIDCziD8gYUgv/ACDgICbIktnOwPNDaimgVgjZiz4Ie04U90+80P71XMqkRVSBJw8o+LOSwskncAde9eu/U8jKOMSo/unvHV/fc8EDOpOEIp0lq8NVtja47q5Mfbb39PnhdxY/wme+Gb7/jbXVMUURUFIVmWTiqUEud27518MyekBYOTS+sK4Vy8YnamMLFMH9K4TRHw1HOYms222m9r3ICx9o/2vxgAQAAAHicY2BkYGAA4jPOCyvj+W2+MnCzMIDA9YVfWRH0/wYWBuZ6IJeDgQkkCgA7ZwrNAHicY2BkYGBu+N/AEMPCAAJAkpEBFXAAAEcOAnF4nGNhYGBgwYMBAmAAIQAAAAAAAABsALYBJgFuArIDXgPaAAB4nGNgZGBg4GC4y8DFAAJMQMwFZv8H8xkAH50CBgAAAHicZY9NTsMwEIVf+gekEqqoYIfkBWIBKP0Rq25YVGr3XXTfpk6bKokjx63UA3AejsAJOALcgDvwSCebNpbH37x5Y08A3OAHHo7fLfeRPVwyO3INF7gXrlN/EG6QX4SbaONVuEX9TdjHM6bCbXRheYPXuGL2hHdhDx18CNdwjU/hOvUv4Qb5W7iJO/wKt9Dx6sI+5l5XuI1HL/bHVi+cXqnlQcWhySKTOb+CmV7vkoWt0uqca1vEJlODoF9JU51pW91T7NdD5yIVWZOqCas6SYzKrdnq0AUb5/JRrxeJHoQm5Vhj/rbGAo5xBYUlDowxQhhkiMro6DtVZvSvsUPCXntWPc3ndFsU1P9zhQEC9M9cU7qy0nk6T4E9XxtSdXQrbsuelDSRXs1JErJCXta2VELqATZlV44RelzRiT8oZ0j/AAlabsgAAAB4nG3JOw6AIAwA0Ja/Lp6REEJxKII2MZxeE1ff+kDBZ4V/ARVqNGjRoceAC5heI2uSZo9R+XJnjiPRVqRL5ERN9veLnTKp+pK53JUBHiSwE4EAAAA=') format('woff'),
+  url('layui-icon.ttf?t=1534841861211') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('layui-icon.svg?t=1534841861211#layui-icon') format('svg'); /* iOS 4.1- */
+}
+
+.layui-icon {
+  font-family:"layui-icon" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qian:before { content: "\e662"; }
+
+.icon-huo:before { content: "\e6a0"; }
+
+.icon-print:before { content: "\e652"; }
+
+.icon-search:before { content: "\e69a"; }
+
+.icon-guquanchoujiang:before { content: "\e65c"; }
+
+.icon-zuzhi:before { content: "\e672"; }
+
+.icon-gengxin:before { content: "\e615"; }
+

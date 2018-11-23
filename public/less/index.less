@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+@page-width: 1200px;
+@info-height: 80px;
+@info-bg: #f6f6f6;
+@info-color: #707070;
+#main {
+  width: 100%;
+  @media (max-width: 1280px) {
+    min-width: 1280px;
+  }
+  @media (min-width: 1280px) {
+    min-width: 1280px;
+  }
+  @media (min-width: 1780px) {
+    min-width: 1780px;
+  }
+  background-color: #fff;
+  .info-wrap {
+    width: 100%;
+    background-color: @info-bg;
+    border-bottom: 1px solid #dddddd;
+    .info {
+      color: @info-color;
+      width: @page-width;
+      margin: 0 auto;
+      .row {
+        float: left;
+        overflow: hidden;
+        position: relative;
+        padding: 15px 10px;
+        width: @page-width / 6 - 20 - 1;
+        border-right: 1px solid #dddddd;
+        .title {
+          font-size: 20px;
+          height: 35px;
+          line-height: 30px;
+        }
+        .detail {
+          font-size: 16px;
+          height: 20px;
+          line-height: 20px;
+        }
+        .bg {
+          position: absolute;
+          width: 70px;
+          height: 60px;
+          right: 0;
+          bottom: 0;
+          background: url("@{imageUrl}/img/index/bg-icon.png") 0 0 no-repeat
+            transparent;
+        }
+        .bg-img1 {
+          background-position: 0 5px;
+        }
+        .bg-img2 {
+          background-position: -82px 5px;
+        }
+        .bg-img3 {
+          background-position: -165px 5px;
+        }
+        .bg-img4 {
+          background-position: -250px 5px;
+        }
+        .bg-img5 {
+          background-position: -330px 5px;
+        }
+        .bg-img6 {
+          background-position: -424px 5px;
+        }
+      }
+      .first {
+        width: @page-width / 6 - 20 - 2;
+        border-left: 1px solid #dddddd;
+      }
+    }
+  }
+  .global {
+    width: @page-width;
+    margin: 0 auto;
+    padding-top: 100px;
+    height: 440px;
+    .item {
+      float: left;
+      height: 200px;
+      width: @page-width / 3;
+      .canvas {
+        display: inline-block;
+        vertical-align: middle;
+        width: 150px;
+        height: 150px;
+      }
+      .detail {
+        display: inline-block;
+        width: @page-width / 3 - 160;
+        vertical-align: middle;
+        color: #000;
+        .row {
+          font-size: 14px;
+          height: 30px;
+          line-height: 30px;
+        }
+      }
+    }
+  }
+}
